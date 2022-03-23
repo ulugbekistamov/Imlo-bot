@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 from checkWord import checkWord
 
-API_TOKEN = '5146458831:AAGDvDLAhfBZnu9M1a28LhIv_JLgnV4o5Hg'
+API_TOKEN = 'Your bot token'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
